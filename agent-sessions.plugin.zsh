@@ -4,7 +4,7 @@ typeset -gA _agent_session_original_completion
 
 _agent:session:choices() {
   local kind=$1
-  python3 - "$kind" <<'PY'
+  python - "$kind" <<'PY'
 import glob, json, os, sqlite3, sys
 from datetime import datetime
 

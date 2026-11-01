@@ -23,7 +23,7 @@ For other arguments, the command's own completion runs as before.
 
 ## Install
 
-The plugin needs `python3`. Source it after `compinit`:
+The plugin needs Python 3 as `python`. Source it after `compinit`:
 
 ```zsh
 source /path/to/agent-sessions/agent-sessions.plugin.zsh
