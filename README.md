@@ -4,7 +4,7 @@ Zsh completion of session IDs for Claude Code, Codex and OpenCode.
 
 ```
 $ opencode -s <Tab>
-ses_e6c152051ffe59pT2E2KkrW6z1  -- Nov 1 10:16 · Govcode rename and Windows support · nistagent.com
+ses_e6c152051ffe59pT2E2KkrW6z1  -- Nov 1 10:16 · Add Windows support to the installer · my-project
 ```
 
 | Command | Completes after |
